@@ -1,7 +1,7 @@
 ﻿/*****************************************************************
 Program Name: Rectangle
 Description : An application that calculates and displays areas and volumes 5 times, then displays a list of the results and their sums .
-Programmer : Juanita Darns
+Programmer : Peter Kennedy
 Date : 7/22/2021
 ******************************************************************/
 
